@@ -1,0 +1,11 @@
+Greenfoot run started: Thu Oct 27 16:53:36 KST 2016
+Greenfoot version: 3.0.4
+Java version 1.8.0_92
+Virtual machine: Java HotSpot(TM) Client VM 25.92-b14 (Oracle Corporation)
+Running on: Windows 10 10.0 (x86)
+Java Home: C:\Program Files (x86)\Greenfoot\jdk\jre
+----
+Opening project: C:\Users\김준현\Desktop\대학\java\g-1
+1477554818845: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
